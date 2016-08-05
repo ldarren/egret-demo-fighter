@@ -1,0 +1,54 @@
+{
+	"groups": [
+		{
+			"keys": "bg0,boss",
+			"name": "stage00"
+		},
+		{
+			"keys": "b1,b2,bg1,btn_start,f1,f2",
+			"name": "stage01"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/56321545c0c31.jpg",
+			"type": "image",
+			"name": "bg0"
+		},
+		{
+			"url": "assets/5641fe6bd8012.png",
+			"type": "image",
+			"name": "boss"
+		},
+		{
+			"url": "assets/b1.png",
+			"type": "image",
+			"name": "b1"
+		},
+		{
+			"url": "assets/b2.png",
+			"type": "image",
+			"name": "b2"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg1"
+		},
+		{
+			"url": "assets/btn_start.png",
+			"type": "image",
+			"name": "btn_start"
+		},
+		{
+			"url": "assets/f1.png",
+			"type": "image",
+			"name": "f1"
+		},
+		{
+			"url": "assets/f2.png",
+			"type": "image",
+			"name": "f2"
+		}
+	]
+}

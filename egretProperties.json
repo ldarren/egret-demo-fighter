@@ -1,0 +1,24 @@
+{
+	"native": {
+		"path_ignore": [],
+		"ios_path": "../ios",
+		"android_as_path": "../apk"
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "3.1.5",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "tween"
+		}
+	]
+}
